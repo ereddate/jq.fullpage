@@ -1,5 +1,5 @@
 # jq.fullpage
-jq.fullpage
+jq.fullpage 是以jQuery为基础开发的全屏网页插件，对不同设备的判断通过多种方式的控制来实现交互。
 
 #用法
 
